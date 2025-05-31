@@ -35,21 +35,31 @@ safer online environment for everyone.
 <!-- Present Status -->
 <div align="center">
   <h2>🔗 Present Status</h2>
-  
-  <div style="background-color: #0D1117; padding: 20px; border-radius: 10px; margin: 20px 0;">
-    <div style="text-align: left; max-width: 600px; margin: 0 auto;">
-      <p>👾 Still Learning Bug hunting & malware forensics.</p>
-      <p>👾 Managing Tech Communities & Content creator.</p>
-      <p>👾 Writing Some Useful Tools For Myself & Communities</p>
-      <p>👾 Building & Contributing To Open Source Projects</p>
-      <p>👾 Currently Learning mobile pentesting & web3</p>
-      <br>
-      <p style="color: #58A6FF;"><b>Updating:</b> Journey to Cybersecurity Specialist.</p>
-    </div>
-  </div>
 </div>
 
-<br>
+<div style="background: #0D1117; border-radius: 8px; margin: 20px 0; padding: 25px;">
+  <div style="max-width: 800px; margin: 0 auto;">
+    <p style="color: #E2E4E8; font-family: 'Consolas', monospace; margin: 12px 0;">
+      <span style="color: #58A6FF;">➜</span> Still Learning Bug hunting & malware forensics.
+    </p>
+    <p style="color: #E2E4E8; font-family: 'Consolas', monospace; margin: 12px 0;">
+      <span style="color: #58A6FF;">➜</span> Managing Tech Communities & Content creator.
+    </p>
+    <p style="color: #E2E4E8; font-family: 'Consolas', monospace; margin: 12px 0;">
+      <span style="color: #58A6FF;">➜</span> Writing Some Useful Tools For Myself & Communities
+    </p>
+    <p style="color: #E2E4E8; font-family: 'Consolas', monospace; margin: 12px 0;">
+      <span style="color: #58A6FF;">➜</span> Building & Contributing To Open Source Projects
+    </p>
+    <p style="color: #E2E4E8; font-family: 'Consolas', monospace; margin: 12px 0;">
+      <span style="color: #58A6FF;">➜</span> Currently Learning mobile pentesting & web3
+    </p>
+    <br>
+    <p style="color: #58A6FF; font-family: 'Consolas', monospace; font-size: 0.9em; margin-top: 15px;">
+      <span style="color: #7C7C7C;">Updating:</span> Journey to Cybersecurity Specialist
+    </p>
+  </div>
+</div>
 
 <!-- Skills Section -->
 <div align="center">
