@@ -1,159 +1,174 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="https://your-banner-image-url-here.jpg" alt="Cybersecurity Banner" width="100%">
-  <h3>〔 On the journey to master the digital realm 〕</h3>
+  <img src="https://images.pexels.com/photos/5380642/pexels-photo-5380642.jpeg" alt="Cybersecurity Banner" width="100%">
+  <h3>⟦ Mastering the Digital Realm ⟧</h3>
 </div>
 
 <br>
 
 <!-- Introduction -->
-## 💀 > whoami
-
-<img align="right" width="150" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" />
+<div align="center">
+  <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="150" align="right"/>
+  <h2>⚡ Introduction</h2>
+</div>
 
 ```bash
-$ cat introduction.txt
+I'm a passionate Cybersecurity Specialist & Ethical Hacker with expertise 
+in vulnerability assessment, penetration testing, and digital forensics. 
+My mission is to secure digital assets and contribute to building a 
+safer online environment for everyone.
 ```
 
-> I'm a passionate Cybersecurity Specialist & Ethical Hacker with expertise in vulnerability assessment, 
-> penetration testing, and digital forensics. My mission is to secure digital assets and contribute 
-> to building a safer online environment for everyone.
-
 <details>
-  <summary>📚 More about me</summary>
-  <br>
-  
-  - 🔐 Currently focusing on [your current focus]
-  - 🌱 Learning [what you're learning]
-  - 👯 Looking to collaborate on [types of projects]
-  - 💬 Ask me about [your expertise]
-  
+<summary><b>🔍 More About Me</b></summary>
+<br>
+
+- 🔐 Currently focusing on [your current focus]
+- 🌱 Learning [what you're learning]
+- 👯 Looking to collaborate on [types of projects]
+- 💬 Ask me about [your expertise]
+
 </details>
 
 <br>
 
-<!-- Status Section -->
-## 📊 > ./current_status
-
-```
-[+] Still learning bug hunting & malware forensics
-[+] Managing Tech Communities & Content creation
-[+] Writing Tools For Myself & Communities
-[+] Building & Contributing To Open Source Projects
-[+] Learning mobile pentesting & web3
-```
-
-<div align="right">
-  <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="150">
+<!-- Current Status -->
+<div align="center">
+  <h2>📊 Current Status</h2>
+  <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="150" align="right"/>
 </div>
 
-**Current Focus:** `Journey to CyberSecurity Specialist`
-
-<br>
-
-<!-- Divider -->
-<div align="center">
-  
-  ```
-  ┌──────────────────────────────────────────────────────────────┐
-  │                                                              │
-  │                     KNOWLEDGE & SKILLS                       │
-  │                                                              │
-  └──────────────────────────────────────────────────────────────┘
-  ```
-  
-</div>
-
-<!-- Tech Stack -->
-## 💻 > ls ./tech_stack
-
-<div align="center">
-  
-  ![BASH](https://img.shields.io/badge/-BASH-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-  
-  ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-  ![Metasploit](https://img.shields.io/badge/-Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
-  ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+        <b>Bug Hunting & Malware Analysis</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> 
+        <b>Tech Community Management</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> 
+        <b>Security Tool Development</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="30"> 
+        <b>Open Source Contributions</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-<!-- Projects Section -->
-## 🛠️ > ls ./projects
+<!-- Skills Section -->
+<div align="center">
+  <h2>💻 Technical Arsenal</h2>
+</div>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project 1</h3>
-      <div align="center">
-        <a href="https://github.com/yourusername/project1" target="_blank">
-          <img src="https://via.placeholder.com/300x200/0D1117/58A6FF?text=Project+1" width="100%" alt="Project 1"/>
-        </a>
-        <p><strong>Tools: Python, Bash, Metasploit</strong> — A security tool for vulnerability scanning</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 2</h3>
-      <div align="center">
-        <a href="https://github.com/yourusername/project2" target="_blank">
-          <img src="https://via.placeholder.com/300x200/0D1117/58A6FF?text=Project+2" width="100%" alt="Project 2"/>
-        </a>
-        <p><strong>Tools: JavaScript, Node.js</strong> — Web application security testing framework</p>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/badge/-BASH-121011?style=for-the-badge&logo=gnu-bash&logoColor=white&color=000000"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=000000"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&color=000000"/>
+  <img src="https://img.shields.io/badge/-Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&color=000000"/>
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&color=000000"/>
+  <img src="https://img.shields.io/badge/-Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white&color=000000"/>
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white&color=000000"/>
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=000000"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=000000"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=000000"/>
+</div>
+
+<br>
+
+<!-- Projects -->
+<div align="center">
+  <h2>🛡️ Featured Projects</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Security Scanner</h3>
+        <p align="center">
+          <a href="https://github.com/yourusername/project1">
+            <img src="https://via.placeholder.com/300x200/0D1117/58A6FF?text=Security+Scanner" width="100%" alt="Security Scanner"/>
+          </a>
+          <p align="center">
+            <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&color=000000"/>
+            <img src="https://img.shields.io/badge/-Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white&color=000000"/>
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Threat Detection System</h3>
+        <p align="center">
+          <a href="https://github.com/yourusername/project2">
+            <img src="https://via.placeholder.com/300x200/0D1117/58A6FF?text=Threat+Detection" width="100%" alt="Threat Detection"/>
+          </a>
+          <p align="center">
+            <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&color=000000"/>
+            <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&color=000000"/>
+          </p>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
 <!-- GitHub Stats -->
-## 📈 > cat ./github_stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1&column=6" alt="trophy" />
+  <h2>📈 Performance Metrics</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
 <br>
 
-<!-- Contact Information -->
-## 📡 > ./connect
-
+<!-- Contact -->
 <div align="center">
+  <h2>📡 Connect With Me</h2>
   
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-  [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yourusername)
-  [![Hack The Box](https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/yourusername)
-  
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=000000"/>
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000"/>
+  </a>
+  <a href="https://discordapp.com/users/yourusername">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=000000"/>
+  </a>
+  <a href="https://app.hackthebox.com/profile/yourusername">
+    <img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&color=000000"/>
+  </a>
 </div>
 
 <br>
 
 <!-- Footer -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer"/>
   
-  ```
-  ┌────────────────────────────────────────────────────────────────────┐
-  │                                                                    │
-  │   "We're all connected. Connected by a thing called the Internet"  │
-  │                                                                    │
-  └────────────────────────────────────────────────────────────────────┘
-  ```
+  <br>
   
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blueviolet" alt="Profile views" />
-  
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=58A6FF" alt="Profile views"/>
 </div>
