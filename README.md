@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWlhNWJycHM0ZWw5MnI2czFxdmR6amR6YTg4Ynozc2JvbmdpdGVmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZMJEhF8ci7PY8YLvkZ/giphy.gif" width="100%" height="auto"/></p>
+<p align="center"><img src="https://streamable.com/e/hyvfjc?" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
