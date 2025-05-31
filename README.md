@@ -39,17 +39,17 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsecc)**, a hacker & Security Rese
 
 <img width="25%" align='left' style="margin-right: 15px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWE2Z3BjMzB4cjdocjR5YnRzMjE0NjJ0cWVxYm9qNTFuZ2F2MWNjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif">
 
-   👉 Still Learning Bug hunting & malware forensics.
+   👉 Still Learning Bug hunting & malware forensics. <br>
 
-   👉 Managing Tech Communities & Content creator.
+   👉 Managing Tech Communities & Content creator. <br>
 
-   👉 Writing Some Useful Tools For Myself & Communities
+   👉 Writing Some Useful Tools For Myself & Communities <br>
 
-   👉 Building & Contributing To Open Source Projects
+   👉 Building & Contributing To Open Source Projects <br>
 
-   👉 Currently Learning mobile pentesting & web3 
+   👉 Currently Learning mobile pentesting & web3 <br>
 
-`Updating:`  Journey to Cybersecurity Specialist.
+`Updating:`  Journey to Cybersecurity Specialist. 
 
 ---
 
