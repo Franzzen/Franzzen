@@ -8,7 +8,7 @@
 </div>
 
 
-<img width="28%" align='left' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
 
 <h2 align="left">
@@ -37,7 +37,7 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsecc)**, a hacker & Security Rese
 
 <h2 id="present_status"> Present Status </h3>
 
-<img width="25%" align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWE2Z3BjMzB4cjdocjR5YnRzMjE0NjJ0cWVxYm9qNTFuZ2F2MWNjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif">
+<img width="25%" align='left' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWE2Z3BjMzB4cjdocjR5YnRzMjE0NjJ0cWVxYm9qNTFuZ2F2MWNjMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif">
 
 👉 Still Learning Bug hunting & malware forensics.
 
