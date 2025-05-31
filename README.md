@@ -49,7 +49,6 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsecc)**, a hacker & Security Rese
 
 👉 Currently Learning mobile pentesting & web3 
 
-`Updating:`  Journey to Cybersecurity Specialist. 
 ---
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
