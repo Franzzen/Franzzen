@@ -32,37 +32,20 @@ safer online environment for everyone.
 
 <br>
 
-<!-- Current Status -->
+<!-- Present Status -->
 <div align="center">
-  <h2>📊 Current Status</h2>
+  <h2>🔗 Present Status</h2>
   
-  <div class="status-container" style="display: inline-block; text-align: left; margin: 20px auto;">
-    <table>
-      <tr>
-        <td align="center">
-          <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-          <b>Bug Hunting & Malware Analysis</b>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> 
-          <b>Tech Community Management</b>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> 
-          <b>Security Tool Development</b>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="30"> 
-          <b>Open Source Contributions</b>
-        </td>
-      </tr>
-    </table>
+  <div style="background-color: #0D1117; padding: 20px; border-radius: 10px; margin: 20px 0;">
+    <div style="text-align: left; max-width: 600px; margin: 0 auto;">
+      <p>👾 Still Learning Bug hunting & malware forensics.</p>
+      <p>👾 Managing Tech Communities & Content creator.</p>
+      <p>👾 Writing Some Useful Tools For Myself & Communities</p>
+      <p>👾 Building & Contributing To Open Source Projects</p>
+      <p>👾 Currently Learning mobile pentesting & web3</p>
+      <br>
+      <p style="color: #58A6FF;"><b>Updating:</b> Journey to Cybersecurity Specialist.</p>
+    </div>
   </div>
 </div>
 
