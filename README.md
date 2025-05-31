@@ -35,36 +35,35 @@ safer online environment for everyone.
 <!-- Current Status -->
 <div align="center">
   <h2>📊 Current Status</h2>
-  <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="150" align="right"/>
-</div>
-
-<div align="left">
-  <table>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-        <b>Bug Hunting & Malware Analysis</b>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> 
-        <b>Tech Community Management</b>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> 
-        <b>Security Tool Development</b>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="30"> 
-        <b>Open Source Contributions</b>
-      </td>
-    </tr>
-  </table>
+  
+  <div class="status-container" style="display: inline-block; text-align: left; margin: 20px auto;">
+    <table>
+      <tr>
+        <td align="center">
+          <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+          <b>Bug Hunting & Malware Analysis</b>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> 
+          <b>Tech Community Management</b>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> 
+          <b>Security Tool Development</b>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="30"> 
+          <b>Open Source Contributions</b>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 <br>
@@ -91,44 +90,6 @@ safer online environment for everyone.
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=000000"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=000000"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=000000"/>
-</div>
-
-<br>
-
-<!-- Projects -->
-<div align="center">
-  <h2>🛡️ Featured Projects</h2>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Security Scanner</h3>
-        <p align="center">
-          <a href="https://github.com/yourusername/project1">
-            <img src="https://via.placeholder.com/300x200/0D1117/58A6FF?text=Security+Scanner" width="100%" alt="Security Scanner"/>
-          </a>
-          <p align="center">
-            <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&color=000000"/>
-            <img src="https://img.shields.io/badge/-Metasploit-2A2A2A?style=flat-square&logo=metasploit&logoColor=white&color=000000"/>
-          </p>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Threat Detection System</h3>
-        <p align="center">
-          <a href="https://github.com/yourusername/project2">
-            <img src="https://via.placeholder.com/300x200/0D1117/58A6FF?text=Threat+Detection" width="100%" alt="Threat Detection"/>
-          </a>
-          <p align="center">
-            <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&color=000000"/>
-            <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&color=000000"/>
-          </p>
-        </p>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <br>
