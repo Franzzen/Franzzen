@@ -78,7 +78,7 @@ I'm **[`Franzzen`](https://www.youtube.com/@franzzen6590)**, a beginner hacker a
 
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img src="https://github-readme-snake.vercel.app/api?user=Franzzen&theme=dark" alt="Snake animation" />
+![snake gif](https://github.com/Franzzen/Franzzen/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
