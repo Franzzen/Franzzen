@@ -39,17 +39,13 @@ I'm **[`Franzzen`](https://www.youtube.com/@franzzen6590)**, a beginner hacker a
 
 <img width="25%" align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM1dGpmZWltaTRma284ZG9rMjI4ejk5OGJqMmQzbzVxaW9vcDY2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sNL0jXjtN8Fuae10T9/giphy.gif">
 
-👉 Still Learning Bug hunting & malware forensics. 
+👉 Learning and Improving My Skills
 
-👉 Managing Tech Communities & Content creator. 
+👉 Making Some Good Tools and Open Source Projects for Myself & Community
 
-👉 Writing Some Useful Tools For Myself & Communities
+👉 Doing My Studies as a Hobby
 
-👉 Building & Contributing To Open Source Projects 
-
-👉 Currently Learning mobile pentesting & web3 
-
-`Updating:`  Journey to Cybersecurity Specialist.
+`Updating:` Journey to become a Great Hacker.
 
 ---
 
