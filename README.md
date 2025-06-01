@@ -74,6 +74,7 @@ I'm **[`Franzzen`](https://www.youtube.com/@franzzen6590)**, a hacker & Security
        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
        <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&color=000000" alt="Swift" />
+       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&color=000000" alt="Visual Studio" />
   </div>
 </div>
 
