@@ -101,15 +101,6 @@ I'm **[`Franzzen`](https://www.youtube.com/@franzzen6590)**, a beginner hacker a
 
 
 
-<h2 id="donate" align=''> ⚡️</h2>
-
-<details>
-<summary></summary>
-
-<p align="center"><img src="https://github.com/user-attachments/assets/b4b5c22b-2402-4c52-8a62-a298c24347dc" width="80%" height="auto"/></p>
-
-
-</details>
 
 
 
