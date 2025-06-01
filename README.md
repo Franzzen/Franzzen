@@ -35,20 +35,17 @@ I'm **[`Franzzen`](https://www.youtube.com/@franzzen6590)**, a beginner hacker a
 
 ---
 
-<h2 id="present_status"> Present Status </h3>
+<h2 id="present_status"> Status </h3>
 
 <img width="25%" align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM1dGpmZWltaTRma284ZG9rMjI4ejk5OGJqMmQzbzVxaW9vcDY2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sNL0jXjtN8Fuae10T9/giphy.gif">
 
+✅ Learning and Improving My Skills
 
-👉 Learning and Improving My Skills
+✅ Making Some Good Tools and Open Source Projects for Myself & Community
 
-👉 Making Some Good Tools and Open Source Projects for Myself & Community
-
-👉 Doing My Studies as a Hobby
+✅ Doing My Studies as a Hobby
 
 `Updating:` Journey to become a Great Hacker.
-
-
 
 ---
 
@@ -83,9 +80,9 @@ I'm **[`Franzzen`](https://www.youtube.com/@franzzen6590)**, a beginner hacker a
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinxp&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/coffinxp/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/coffinxp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=franzzen&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/franzzen/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=franzzen&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/franzzen/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franzzen&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
 
