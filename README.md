@@ -39,6 +39,7 @@ I'm **[`Franzzen`](https://www.youtube.com/@franzzen6590)**, a beginner hacker a
 
 <img width="25%" align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM1dGpmZWltaTRma284ZG9rMjI4ejk5OGJqMmQzbzVxaW9vcDY2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sNL0jXjtN8Fuae10T9/giphy.gif">
 
+
 👉 Learning and Improving My Skills
 
 👉 Making Some Good Tools and Open Source Projects for Myself & Community
@@ -46,6 +47,8 @@ I'm **[`Franzzen`](https://www.youtube.com/@franzzen6590)**, a beginner hacker a
 👉 Doing My Studies as a Hobby
 
 `Updating:` Journey to become a Great Hacker.
+
+
 
 ---
 
