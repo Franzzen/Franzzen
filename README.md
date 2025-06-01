@@ -22,13 +22,13 @@ I'm **[`Franzzen`](https://www.youtube.com/@franzzen6590)**, a beginner hacker a
 <details>
   <summary>More about me</summary>
 
-- **Name**: coffin
-- **From**: Russia
-- **Bug Hunter** | **Security Researcher** | **forensics Analyst**
-- i have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**,**Detective spy**
-- Improving knowledge in **Webapp Vulnerabilities**
-- Lifelong learner — always exploring **everything**
-- Reach me out at **coffinxp7@proton.me**
+- **Name**: Franzzen  
+- **From**: Brazil  
+- **Security Researcher** | **Aspiring Hacker** | **Bug Hunter**  
+- I have experience in **Social Engineering**, **Malware Analysis**, **Antivirus Evasion**, and **Exploitation Techniques**  
+- Improving knowledge in **Web Application Vulnerabilities**  
+- Life is a constant journey of learning — the universe never stops
+
 
 </details>
 <br>
