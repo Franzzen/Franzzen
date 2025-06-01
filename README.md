@@ -78,7 +78,12 @@ I'm **[`Franzzen`](https://www.youtube.com/@franzzen6590)**, a beginner hacker a
 
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-![snake gif](https://github.com/Franzzen/Franzzen/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Franzzen/Franzzen/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Franzzen/Franzzen/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Franzzen/Franzzen/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
