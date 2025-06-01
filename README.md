@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`Franzzen`](https://www.youtube.com/@franzzen6590)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+I'm **[`Franzzen`](https://www.youtube.com/@franzzen6590)**, a beginner hacker and aspiring Security Researcher, currently developing my skills in cybersecurity. I’m especially interested in malware analysis, vulnerability assessment, and bug hunting. With a strong passion for technology, my goal is to keep learning, protect digital assets, and grow alongside the hacking community.
 
 
 <details>
